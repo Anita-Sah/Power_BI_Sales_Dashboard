@@ -7,4 +7,5 @@ Madhav E-Commerce Sales Dashboard
 
 
 This is the final dashboard.
+[Madhav E-commerce Sales Dashboard_Power Bi.pdf](https://github.com/Anita-Sah/Power_BI_Sales_Dashboard/files/12560697/Madhav.E-commerce.Sales.Dashboard_Power.Bi.pdf)
 
