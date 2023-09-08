@@ -7,4 +7,4 @@ Madhav E-Commerce Sales Dashboard
 
 
 This is the final dashboard.
-![Power bi dashboard](https://github.com/Anita-Sah/Power_BI_Sales_Dashboard/assets/143807241/446e3957-9f8a-4d8e-a8fd-b189fc2bf990)
+
